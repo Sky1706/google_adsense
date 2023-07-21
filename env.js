@@ -7,7 +7,7 @@ const oEnv = {};
 oEnv.dev = {
     BASE_URL: '',
     BASE_API_PATH: '',
-    DB_URL: 'mongodb://localhost:27017/node-boilerplate',
+    DB_URL: 'mongodb+srv://sameer:sZjGWoJxC6irObXw@mycluster.w6fbq9s.mongodb.net/akash',
 };
 
 oEnv.stag = {
